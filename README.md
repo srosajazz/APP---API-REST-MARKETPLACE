@@ -1,4 +1,4 @@
-# NodeJS, ReactJS e React Native
+# NodeJS, ReactJS & React Native
 
 
 | Introduction  API REST |
