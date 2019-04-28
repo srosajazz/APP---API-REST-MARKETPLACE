@@ -1,12 +1,12 @@
-# NodeJS, ReactJS & React Native
+# NodeJS
 
 
 | Introduction  API REST |
 | ------------------------- |
-| 1.  Configuring MongoDB |
-| 2.  Mongoose|
-| 3.  User Schema|
-| 4.  Registration & Insomnia|
+|1.  Configuring MongoDB |
+|2.  Mongoose|
+|3.  User Schema|
+|4.  Registration & Insomnia|
 |5.  Password Encryption|
 |6.  JWT Authentication|
 |7.  Auth Middleware|
